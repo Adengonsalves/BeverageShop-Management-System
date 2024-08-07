@@ -1,9 +1,3 @@
-/**
- * Interface for an Order
- *
- * @author Greg Grinberg
- * @version 8/21/2022
- **/
 public interface BevShopInterface {
 
 	int MIN_AGE_FOR_ALCOHOL = 21;  //Minimum age for offering alcohol drink
