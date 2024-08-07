@@ -1,12 +1,3 @@
-
-/**
- * Interface for an Order
- * 
- * @author Farnaz Eivazi
- * @version 8/22/13/2022
- *
- */
-
 public interface OrderInterface  {
 
 	
